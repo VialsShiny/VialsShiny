@@ -1,6 +1,6 @@
 # Hi! 👋 <img src="https://komarev.com/ghpvc/?username=VialsShiny&style=for-the-badge" align="right" />
 
-Je suis **Vials**, dev web fullstack & étudiant en 2ᵉ année à **Eden School**. Je réalise des **sites vitrines** et **applications dynamiques** sur-mesure, avec **PHP/Laravel**, **HTML/CSS/JS**, **Twig**, **React**, **MySQL** et **MAMP**.
+Je suis **Vials**, dev web fullstack & étudiant en 2ᵉ année à **Eden School**. Je réalise des **sites vitrines** et **applications dynamiques** sur-mesure, avec **PHP/Laravel**, **HTML/CSS/JS**, **React**, **MySQL** et **MAMP**.
 
 ---
 
@@ -27,19 +27,19 @@ Je suis **Vials**, dev web fullstack & étudiant en 2ᵉ année à **Eden School
 One-page vitrine pour piscines à coque dans le Vexin :
 - Présentation de services : étude, installation, terrassement, entretien  
 - Formulaire contact + intégration email  
-- Hébergé chez Ionos, mobile-friendly :contentReference[oaicite:1]{index=1}
+- Hébergé chez Ionos, mobile-friendly
 
 ### 🔧 Chaudronnerie du Vexin – `chaudronnerieduvexin.fr`
 Site corporate pour chaudronnier/métallier :
 - Page histoire, services (soudage, découpe, maintenance)
-- Contact, mentions légales & RGPD :contentReference[oaicite:2]{index=2}
+- Contact, mentions légales & RGPD
 - Déploiement sur Ionos, design clair et professionnel
 
 ### 🎉 Peps Your Fête – `pepsyourfete.fr`
 Site e-commerce décorations d’événements :
 - Présentation formules déco “box”, “coffre”, “malle”
 - Formulaire de demande + contact  
-- Structure One‑Page optimisée, contenus responsives :contentReference[oaicite:3]{index=3}
+- Structure One‑Page optimisée, contenus responsives
 
 ---
 
