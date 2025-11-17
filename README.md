@@ -1,11 +1,5 @@
 <div align="center">
-
-# 👋 Salut, moi c'est **Vials** !
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=D%C3%A9veloppeur+Web+Fullstack;%C3%89tudiant+%C3%A0+Eden+School;Cr%C3%A9ateur+de+solutions+web" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=VialsShiny&style=for-the-badge&color=3b82f6" alt="Profile views" />
-
 </div>
 
 ## 🚀 À propos de moi
