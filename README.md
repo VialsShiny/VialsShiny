@@ -1,68 +1,178 @@
-# Hi! 👋 <img src="https://komarev.com/ghpvc/?username=VialsShiny&style=for-the-badge" align="right" />
+<div align="center">
 
-Je suis **Vials**, dev web fullstack & étudiant en 3ᵉ année à **Eden School**. Je réalise des **sites vitrines** et **applications dynamiques** sur-mesure, avec **PHP/Laravel**, **HTML/CSS/JS**, **React**, **MySQL** et **MAMP**.
+# 👋 Salut, moi c'est **Vials** !
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=D%C3%A9veloppeur+Web+Fullstack;%C3%89tudiant+%C3%A0+Eden+School;Cr%C3%A9ateur+de+solutions+web" alt="Typing SVG" />
 
-## 🎯 Je cherche une alternance
+<img src="https://komarev.com/ghpvc/?username=VialsShiny&style=for-the-badge&color=3b82f6" alt="Profile views" />
 
-Actuellement à la recherche d’une **alternance en développement web fullstack**, je souhaite mettre mes compétences au service d’une entreprise innovante et continuer à apprendre sur des projets concrets. N’hésitez pas à me contacter si vous avez une opportunité !
+</div>
 
----
+## 🚀 À propos de moi
 
-## 🛠️ Compétences
+```javascript
+const vials = {
+    role: "Développeur Web Fullstack",
+    école: "Eden School - 3ème année",
+    status: "🔍 En recherche d'alternance",
+    passion: ["Code", "Streaming", "Innovation"],
+    devise: "Apprendre, créer, livrer. Et recommencer."
+};
+```
 
-### 🔤 Langages
-[![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-
-### 🧰 Frameworks & outils
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Laravel](https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![MAMP](https://img.shields.io/badge/MAMP-0c4672?style=for-the-badge&logo=mamp&logoColor=white)](https://www.mamp.info/en/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+Je suis développeur web fullstack spécialisé dans la création de **sites vitrines** et **applications dynamiques** sur-mesure. Passionné par les technologies modernes, je transforme des idées en produits web performants et élégants.
 
 ---
 
-## 🚀 Projets clients
+## 💼 Recherche d'Alternance
 
-### 🌊 Piscine Atlantis – `piscineatlantis.fr`
-One-page vitrine pour piscines à coque dans le Vexin :
-- Présentation de services : étude, installation, terrassement, entretien  
-- Formulaire contact + intégration email  
-- Hébergé chez Ionos, mobile-friendly
+<table>
+<tr>
+<td>
+  
+🎯 **Objectif** : Intégrer une entreprise innovante en tant que développeur fullstack
 
-### 🔧 Chaudronnerie du Vexin – `chaudronnerieduvexin.fr`
-Site corporate pour chaudronnier/métallier :
-- Page histoire, services (soudage, découpe, maintenance)
-- Contact, mentions légales & RGPD
-- Déploiement sur Ionos, design clair et professionnel
+📅 **Disponibilité** : Immédiate
 
-### 🎉 Peps Your Fête – `pepsyourfete.fr`
-Site e-commerce décorations d’événements :
-- Présentation formules déco “box”, “coffre”, “malle”
-- Formulaire de demande + contact  
-- Structure One‑Page optimisée, contenus responsives
+🌟 **Ce que j'apporte** :
+- Autonomie et proactivité sur les projets
+- Expérience concrète avec clients réels
+- Passion pour l'apprentissage continu
+- Capacité à travailler en équipe
 
----
-
-## 📈 GitHub Stats
-
-[![Vials Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VialsShiny&theme=github-compact&hide_border=true)](https://github.com/VialsShiny)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📬 Me contacter
+## 🛠️ Stack Technique
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vials--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thibault-vialatou-44baa8307)
-[![Email](https://img.shields.io/badge/Email-vialscorp@hotmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:vialscorp@hotmail.com)
+### 💻 Langages
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</div>
 
-> 🎯 *“Apprendre, créer, livrer. Et recommencer.”*
+### ⚡ Frontend
+<div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</div>
 
-Merci pour ta visite ! 👨‍💻
+### 🔧 Backend
+<div>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</div>
+
+### 🚀 Outils & DevOps
+<div>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/MAMP-02749C?style=for-the-badge&logo=mamp&logoColor=white" alt="MAMP"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</div>
+
+---
+
+## 🎨 Projets Clients Réalisés
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌊 Piscine Atlantis
+**Site vitrine professionnel**
+
+🔗 `piscineatlantis.fr`
+
+- ✅ One-page responsive & moderne
+- ✅ Présentation services complets
+- ✅ Formulaire de contact intégré
+- ✅ Optimisation SEO & performance
+- 🛠️ HTML/CSS/JS + Ionos
+
+</td>
+<td width="50%">
+
+### 🔧 Chaudronnerie du Vexin
+**Site corporate artisan**
+
+🔗 `chaudronnerieduvexin.fr`
+
+- ✅ Design professionnel épuré
+- ✅ Pages services détaillées
+- ✅ Conformité RGPD
+- ✅ Mobile-first responsive
+- 🛠️ PHP + MySQL + Ionos
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎉 Peps Your Fête
+**E-commerce événementiel**
+
+🔗 `pepsyourfete.fr`
+
+- ✅ Catalogue produits dynamique
+- ✅ Formules personnalisées (Box/Coffre/Malle)
+- ✅ Système de demande en ligne
+- ✅ Interface intuitive
+- 🛠️ PHP/Laravel + Bootstrap
+
+</td>
+<td width="50%">
+
+### 🚀 Plus de projets à venir...
+**Toujours en développement**
+
+- 💡 Applications web innovantes
+- 💡 Solutions fullstack sur-mesure
+- 💡 Intégrations API avancées
+- 💡 Projets open-source
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VialsShiny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VialsShiny&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VialsShiny&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VialsShiny&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff" alt="Activity Graph"/>
+</div>
+
+## 📬 Contactez-moi
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vials--shiny.vercel.app-3b82f6?style=for-the-badge)](https://vials-shiny.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thibault_Vialatou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thibault-vialatou-44baa8307)
+[![Email](https://img.shields.io/badge/Email-vialscorp@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vialscorp@hotmail.com)
+[![Twitch](https://img.shields.io/badge/Twitch-el__vials-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/el_vials)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
