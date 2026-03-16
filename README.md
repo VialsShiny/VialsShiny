@@ -8,35 +8,13 @@
 const vials = {
     role: "Développeur Web Fullstack",
     école: "Eden School - 3ème année",
-    status: "🔍 En recherche d'alternance",
-    passion: ["Code", "Streaming", "Innovation"],
+    status: "🚨 Actuellement en Stage chez sequence25",
+    passion: ["Code", "Sport", "Innovation"],
     devise: "Apprendre, créer, livrer. Et recommencer."
 };
 ```
 
 Je suis développeur web fullstack spécialisé dans la création de **sites vitrines** et **applications dynamiques** sur-mesure. Passionné par les technologies modernes, je transforme des idées en produits web performants et élégants.
-
----
-
-## 💼 Recherche d'Alternance
-
-<table>
-<tr>
-<td>
-  
-🎯 **Objectif** : Intégrer une entreprise innovante en tant que développeur fullstack
-
-📅 **Disponibilité** : Immédiate
-
-🌟 **Ce que j'apporte** :
-- Autonomie et proactivité sur les projets
-- Expérience concrète avec clients réels
-- Passion pour l'apprentissage continu
-- Capacité à travailler en équipe
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -62,6 +40,7 @@ Je suis développeur web fullstack spécialisé dans la création de **sites vit
 <div>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -84,20 +63,6 @@ Je suis développeur web fullstack spécialisé dans la création de **sites vit
 <tr>
 <td width="50%">
 
-### 🌊 Piscine Atlantis
-**Site vitrine professionnel**
-
-🔗 `piscineatlantis.fr`
-
-- ✅ One-page responsive & moderne
-- ✅ Présentation services complets
-- ✅ Formulaire de contact intégré
-- ✅ Optimisation SEO & performance
-- 🛠️ HTML/CSS/JS + Ionos
-
-</td>
-<td width="50%">
-
 ### 🔧 Chaudronnerie du Vexin
 **Site corporate artisan**
 
@@ -110,8 +75,6 @@ Je suis développeur web fullstack spécialisé dans la création de **sites vit
 - 🛠️ PHP + MySQL + Ionos
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🎉 Peps Your Fête
@@ -126,6 +89,8 @@ Je suis développeur web fullstack spécialisé dans la création de **sites vit
 - 🛠️ PHP/Laravel + Bootstrap
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🚀 Plus de projets à venir...
