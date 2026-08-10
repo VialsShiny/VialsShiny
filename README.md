@@ -110,9 +110,6 @@ Je suis développeur web full stack spécialisé dans la création d'**applicati
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VialsShiny&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=A855F7&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VialsShiny&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff"/>
-
 <img src="https://streak-stats.demolab.com?user=VialsShiny&theme=midnight-purple&hide_border=true&background=0d1117&ring=7C3AED&fire=A855F7&currStreakLabel=7C3AED" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VialsShiny&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C3AED&line=A855F7&point=ffffff" alt="Activity Graph"/>
